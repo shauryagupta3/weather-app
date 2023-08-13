@@ -1,4 +1,4 @@
-import Search from "./components/search.jsx";
+// import Search from "./components/search.jsx";
 import CurrentWeather from "./components/current-weather.jsx";
 import WeatherForecast from "./components/forecast.jsx";
 import { openweatherKey } from "./components/api.jsx";
